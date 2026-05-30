@@ -6,7 +6,7 @@ async def root():
     return {"message": "Hello World"}
 
 # pip install "fastapi[standard]"
-
+# fastapi dev main.py
 
 # # Install requirements
 # python -m pip install --upgrade pip
